@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-p:before{
+.main:before{
 content:"Before Element";
 Color:red;
 Font-size: large}
 
-p:after{
+.main:after{
 content:"After Element";
 Color:red;
 Font-size: large}
